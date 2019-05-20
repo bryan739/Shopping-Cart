@@ -1,0 +1,9 @@
+body{
+background-color: orange;
+color:navy;
+opacity: 0.7;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
